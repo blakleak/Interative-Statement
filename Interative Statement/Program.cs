@@ -4,7 +4,7 @@ Date: 1/29/2020
 Assignment: Deliberable 2: Iterativer Statement
 Description: this C# console application code demonstrates the use 
              of interative statements after the user enters an integer
-             value between 1 and 10
+             value between 1 and 100
 */
 
 using System;
